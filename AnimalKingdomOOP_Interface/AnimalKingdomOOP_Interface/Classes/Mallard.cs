@@ -6,14 +6,8 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public abstract class Mammals : Animal
+    public class Mallard : Ducks
     {
-
-        public bool SweatGlands { get; set; } = true;
-
-        public abstract bool HasHair { get; set; }
-
-
-
+        public override bool Migrates { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }

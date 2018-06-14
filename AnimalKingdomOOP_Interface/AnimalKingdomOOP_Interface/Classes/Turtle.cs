@@ -6,14 +6,7 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public abstract class Mammals : Animal
+    public abstract class Turtle : Fish
     {
-
-        public bool SweatGlands { get; set; } = true;
-
-        public abstract bool HasHair { get; set; }
-
-
-
     }
 }

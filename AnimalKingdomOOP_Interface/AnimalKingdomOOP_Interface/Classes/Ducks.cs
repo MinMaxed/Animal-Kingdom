@@ -6,7 +6,11 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public class Ducks : Birds, CanFly, CanSwim
+    public abstract class Ducks : Birds, ICanFly, ICanSwim
     {
+        public abstract bool Migrates { get; set; }
+        bool ICanSwim.BreathesUnderWater { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        bool BreathesUnderWater = false;
     }
 }

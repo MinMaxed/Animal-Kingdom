@@ -6,8 +6,8 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public abstract class Fish : Animal, CanSwim
+    public abstract class Fish : Animal
     {
-
+        public virtual bool Sushiable { get; set; } = true;
     }
 }

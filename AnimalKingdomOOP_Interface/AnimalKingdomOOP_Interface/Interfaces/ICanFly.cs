@@ -4,11 +4,9 @@ using System.Text;
 
 namespace AnimalKingdomOOP_Interface.Interfaces
 {
-    interface CanSwim
+    interface ICanFly
     {
-        bool BreathesUnderWater { get; set; } = false;
-
-
+         bool Migrates { get; set; }
 
     }
 }
