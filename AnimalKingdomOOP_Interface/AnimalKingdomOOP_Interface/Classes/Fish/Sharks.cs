@@ -6,8 +6,8 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public class SnowOwl : Owl, ICanFly
+    public abstract class Sharks : Fish
     {
-        public bool Migrates { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
     }
 }

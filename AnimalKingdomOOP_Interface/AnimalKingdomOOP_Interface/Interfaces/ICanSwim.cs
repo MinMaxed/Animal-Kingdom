@@ -8,7 +8,5 @@ namespace AnimalKingdomOOP_Interface.Interfaces
     {
         bool BreathesUnderWater { get; set; }
 
-
-
     }
 }

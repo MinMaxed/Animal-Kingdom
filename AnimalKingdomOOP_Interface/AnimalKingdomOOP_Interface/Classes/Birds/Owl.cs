@@ -7,5 +7,9 @@ namespace AnimalKingdomOOP_Interface.Classes
 {
     public abstract class Owl : Birds
     {
+        public override sealed string Sound()
+        {
+            return "hoot hoot";
+        }
     }
 }

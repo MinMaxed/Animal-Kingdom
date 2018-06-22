@@ -1,0 +1,11 @@
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\obj\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.csprojAssemblyReference.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\obj\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\obj\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.AssemblyInfoInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\obj\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.AssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\bin\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.deps.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\bin\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.runtimeconfig.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\bin\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.runtimeconfig.dev.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\bin\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\bin\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\obj\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab05-Animal-Kingdom\AnimalKingdomOOP_Interface\AnimalKingdomOOP_Interface\obj\Debug\netcoreapp2.1\AnimalKingdomOOP_Interface.pdb

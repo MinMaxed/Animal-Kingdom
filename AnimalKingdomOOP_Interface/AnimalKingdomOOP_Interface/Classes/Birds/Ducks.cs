@@ -6,8 +6,9 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public class Gorilla : Primates
+    public abstract class Ducks : Birds, ICanFly, ICanSwim
     {
-
+        public bool Migrates { get; set; } = true;
+        public bool BreathesUnderWater { get; set; } = false;
     }
 }

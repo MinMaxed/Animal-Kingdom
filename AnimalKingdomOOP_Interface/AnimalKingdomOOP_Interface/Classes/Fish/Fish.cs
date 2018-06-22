@@ -6,9 +6,9 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public abstract class Primates : Mammals
+    public abstract class Fish : Animal, ICanSwim
     {
-        public override bool HasHair { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
+        public virtual bool Sushiable { get; set; } = true;
+        public bool BreathesUnderWater { get; set; } = true;
     }
 }
