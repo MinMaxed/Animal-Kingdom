@@ -8,4 +8,4 @@ This is a lab to test Object Oriented Principles and Interfaces in the framework
 
 ## Interfaces
 
-Interfaces are a workaround to C#'s single-inheritance, and tells the class what it is able to do. 
+Interfaces are a workaround to C#'s single-inheritance, and tells the class what it is able to do. I have 2 interfaces, ICanFly and ICanSwim. They are utalized in all three major branches, Ducks using both, GreyWolves using Swim, Fish having the Swim Interface, and Bats using Fly as well. 
