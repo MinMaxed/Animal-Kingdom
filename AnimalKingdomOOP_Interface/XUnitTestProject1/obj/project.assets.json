@@ -1677,6 +1677,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "AnimalKingdomOOP_Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/AnimalKingdomOOP_Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AnimalKingdomOOP_Interface.dll": {}
+        }
       }
     }
   },
@@ -5697,10 +5710,16 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "AnimalKingdomOOP_Interface/1.0.0": {
+      "type": "project",
+      "path": "../AnimalKingdomOOP_Interface/AnimalKingdomOOP_Interface.csproj",
+      "msbuildProject": "../AnimalKingdomOOP_Interface/AnimalKingdomOOP_Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "AnimalKingdomOOP_Interface >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "xunit >= 2.3.1",
@@ -5736,7 +5755,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab05-Animal-Kingdom\\AnimalKingdomOOP_Interface\\AnimalKingdomOOP_Interface\\AnimalKingdomOOP_Interface.csproj": {
+              "projectPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab05-Animal-Kingdom\\AnimalKingdomOOP_Interface\\AnimalKingdomOOP_Interface\\AnimalKingdomOOP_Interface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,12 +6,27 @@ namespace AnimalKingdomOOP_Interface.Classes
 {
     public abstract class Animal
     {
-        public virtual string Sound { get; set; }
 
-        public virtual int LegCount { get; set; }
 
-        public string Diet { get; set; }
+        public virtual string Sound()
+        {
+            return "my sound here";
+        }
 
-        public bool isNocturnal { get; set; }
+        public virtual string Diet()
+        {
+            return "Things I eat";
+        }
+
+        public virtual string Habitat()
+        {
+            return "I live in nature";
+        }
+
+        public abstract int LegCount { get;  set; }
+
+        public abstract bool IsNocturnal { get;  set; }
+
+
     }
 }

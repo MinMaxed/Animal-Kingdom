@@ -6,7 +6,7 @@ using AnimalKingdomOOP_Interface.Interfaces;
 
 namespace AnimalKingdomOOP_Interface.Classes
 {
-    public class SeaTurtle : Turtle
+    public abstract class Turtle : Fish
     {
 
     }
