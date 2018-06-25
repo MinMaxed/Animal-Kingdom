@@ -28,5 +28,7 @@ namespace AnimalKingdomOOP_Interface.Classes
         public override bool IsNocturnal { get; set; } = false;
 
         public override bool Sushiable { get; set; } = true;
+
+        private bool OceanKing { get; set; } = true;
     }
 }

@@ -8,7 +8,7 @@ namespace AnimalKingdomOOP_Interface.Classes
 {
     public abstract class Fish : Animal, ICanSwim
     {
-        public virtual bool Sushiable { get; set; } = true;
+        protected virtual bool Sushiable { get; set; } = true;
         public bool BreathesUnderWater { get; set; } = true;
     }
 }
